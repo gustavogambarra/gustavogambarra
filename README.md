@@ -1,7 +1,7 @@
-<img align='left' alt='GIF' src='https://i.pinimg.com/originals/2b/cc/90/2bcc903971681f880dd16b8328a7aa09.gif' width='410' />
+<img align='left' alt='GIF' src='https://i.pinimg.com/originals/2b/cc/90/2bcc903971681f880dd16b8328a7aa09.gif' width='390' />
 
 
-<h2> Hi, I'm Gustavo! </h2>
+### Hi, I'm Gustavo!
 
 <p>
   <em>Computer Science student at <a href="https://portal.ufcg.edu.br/">UFCG</a></em>
