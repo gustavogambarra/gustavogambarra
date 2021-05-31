@@ -1,4 +1,4 @@
-<img align='left' alt='GIF' src='https://i.pinimg.com/originals/2b/cc/90/2bcc903971681f880dd16b8328a7aa09.gif' width='390' />
+<img align='right' alt='GIF' src='https://i.pinimg.com/originals/2b/cc/90/2bcc903971681f880dd16b8328a7aa09.gif' width='385' />
 
 
 ### Hi, I'm Gustavo!
@@ -9,13 +9,13 @@
 
 ```Javascript
 const Skills = {
-  languages: ["Python", "Java", "JavaScript", "HTML", "CSS"],
+  code: ["Python", "Java", "JavaScript", "HTML", "CSS"],
   database: ["PostgreSQL"],
   learning: ["JavaScript"]
 }
 ```
 
-<div align='right'>
+<div align='center'>
   <a href='mailto:gustavo.gambarra@ccc.ufcg.edu.br'>
       <img alt='E-mail' src='https://img.shields.io/badge/email-424B54.svg?&style=for-the-badge&logo=Gmail&logoColor=FFFFFF&color=424B54' title='E-mail'>
     </a>
