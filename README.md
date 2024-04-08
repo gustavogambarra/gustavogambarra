@@ -1,6 +1,3 @@
-<img align='left' alt='GIF' src='https://i.pinimg.com/originals/2b/cc/90/2bcc903971681f880dd16b8328a7aa09.gif' width='385' />
-
-
 ### Hi, I'm Gustavo!
 
 <p>
@@ -9,9 +6,8 @@
 
 ```Javascript
 const Skills = {
-  code: ["Python", "Java", "JavaScript", "HTML", "CSS"],
-  database: ["PostgreSQL"],
-  learning: ["JavaScript"]
+  frameworks: ["ReactJS", "React Native", "Angular", ".NET", "Spring Boot"],
+  learning: ["LangChain"]
 }
 ```
 
